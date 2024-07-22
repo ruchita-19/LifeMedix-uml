@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+</head>
+<body>
+    <div class="login">
+        <div class="left">
+            <div class="left-login">
+                <img src="login/login2.svg" alt="background" id="loginsvg">
+            </div>
+        </div>
+        <div class="right">
+            <div class="right-login">
+                <h2>Login</h2>
+                <form action="php/login.php" method="post">
+                    <input type="text" name="username" placeholder="Username" required>
+                    <div class="pass">
+                        <input type="password" name="password" placeholder="Password" required>
+                        <span id="eye"><i class="ri-eye-line"></i></span>
+                    </div>
+                    <button type="submit" id="login">Login</button>
+                </form>
+                
+                <p class="question">Don't have an account? <a href="register.html">Sign Up</a></p>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Your JavaScript for toggling between login and signup can go here
+    </script>
+</body>
+</html>

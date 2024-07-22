@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": " Paracetmol",
+    "price": 200,
+    "image": "image/truuthon.jpg"
+  },
+  {
+    "id": 2,
+    "name": " Cofsils Orange",
+    "price": 250,
+    "image": "image/cofsils.jpg"
+  },
+  {
+    "id": 3,
+    "name": " Vicks Orange Logenegs",
+    "price": 290,
+    "image": "image/vicks.jpg"
+  },
+  {
+    "id": 4,
+    "name": " AccuSure Blood Lancets",
+    "price": 200,
+    "image": "image/accusure.jpg"
+  },
+  {
+    "id": 5,
+    "name": " Budojet LV",
+    "price": 300,
+    "image": "image/budojet.jpg"
+  },
+  {
+    "id": 6,
+    "name": " Fepanil 120",
+    "price": 200,
+    "image": "image/fepanil.jpg"
+  },
+  {
+    "id": 7,
+    "name": " Formo-Flo For Te",
+    "price": 200,
+    "image": "image/formoflo.jpg"
+  },
+  {
+    "id": 8,
+    "name": " A Stra P Tablet",
+    "price": 42.90,
+    "image": "image/astar.jpg"
+  },
+  {
+    "id":9,
+    "name": " Paracetmol",
+    "price": 200,
+    "image": "image/truuthon.jpg"
+  },
+  {
+    "id": 10,
+    "name": " Cofsils Orange",
+    "price": 250,
+    "image": "image/cofsils.jpg"
+  },
+  {
+    "id": 11,
+    "name": " Vicks Orange Logenegs",
+    "price": 290,
+    "image": "image/vicks.jpg"
+  },
+  {
+    "id": 12,
+    "name": " AccuSure Blood Lancets",
+    "price": 200,
+    "image": "image/accusure.jpg"
+  },
+  {
+    "id": 13,
+    "name": " Budojet LV",
+    "price": 300,
+    "image": "image/budojet.jpg"
+  },
+  {
+    "id": 14,
+    "name": " Fepanil 120",
+    "price": 200,
+    "image": "image/fepanil.jpg"
+  },
+  {
+    "id": 15,
+    "name": " Formo-Flo For Te",
+    "price": 200,
+    "image": "image/formoflo.jpg"
+  },
+  {
+    "id": 16,
+    "name": " A Stra P Tablet",
+    "price": 42.90,
+    "image": "image/astar.jpg"
+  }
+]
